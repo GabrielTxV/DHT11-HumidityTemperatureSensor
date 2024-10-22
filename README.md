@@ -1,1 +1,1 @@
-# DHT11_Humidity_Temperature_Sensor
+# DHT11-HumidityTemperatureSensor
