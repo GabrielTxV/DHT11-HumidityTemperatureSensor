@@ -1,0 +1,205 @@
+
+Umidade: 34.00 %	Temperatura: 32.60 °C
+Umidade: 33.00 %	Temperatura: 32.50 °C
+Umidade: 32.00 %	Temperatura: 32.60 °C
+Umidade: 33.00 %	Temperatura: 32.50 °C
+Umidade: 33.00 %	Temperatura: 32.60 °C
+Umidade: 32.00 %	Temperatura: 32.70 °C
+Umidade: 32.00 %	Temperatura: 32.70 °C
+Umidade: 32.00 %	Temperatura: 32.70 °C
+Umidade: 32.00 %	Temperatura: 32.70 °C
+Umidade: 32.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.70 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+===== Resultados das últimas leituras =====
+Média de Umidade: 31.55 %	Desvio Padrão de Umidade: 0.84 %
+Média de Temperatura: 32.69 °C	Desvio Padrão de Temperatura: 0.07 °C
+===========================================
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+===== Resultados das últimas leituras =====
+Média de Umidade: 30.47 %	Desvio Padrão de Umidade: 0.50 %
+Média de Temperatura: 32.85 °C	Desvio Padrão de Temperatura: 0.06 °C
+===========================================
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.80 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+===== Resultados das últimas leituras =====
+Média de Umidade: 30.03 %	Desvio Padrão de Umidade: 0.18 %
+Média de Temperatura: 32.89 °C	Desvio Padrão de Temperatura: 0.04 °C
+===========================================
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 30.00 %	Temperatura: 32.90 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+===== Resultados das últimas leituras =====
+Média de Umidade: 30.63 %	Desvio Padrão de Umidade: 0.48 %
+Média de Temperatura: 32.96 °C	Desvio Padrão de Temperatura: 0.05 °C
+===========================================
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+===== Resultados das últimas leituras =====
+Média de Umidade: 31.00 %	Desvio Padrão de Umidade: 0.00 %
+Média de Temperatura: 33.00 °C	Desvio Padrão de Temperatura: 0.00 °C
+===========================================
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+Umidade: 31.00 %	Temperatura: 33.00 °C
+===== Resultados das últimas leituras =====
+Média de Umidade: 31.00 %	Desvio Padrão de Umidade: 0.00 %
+Média de Temperatura: 33.00 °C	Desvio Padrão de Temperatura: 0.00 °C
+===========================================
